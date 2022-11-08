@@ -16,6 +16,24 @@ function App() {
           I want to be a <b>SovTech </b>software developer because I have worked hard to develop skills that are relevant to this industry and because this type of work brings me personal satisfaction. I possess all the skills and experience that you are looking for.
          </text>
         </p>
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+
         <hr></hr>
         <a
           className="App-link"
